@@ -1,0 +1,70 @@
+body {
+	background-color: #FFE4E1;
+	margin: 0px;
+	font-family: Emilys Candy;
+	font-size: 17px;
+	color: #FFFFFF
+}
+
+header {
+	background-color: #800080;
+	margin: 10px;
+	height: 48px;
+	border-radius: 5px;
+	min-width:480px;
+	text-align: center;
+	font-size: 35px;
+}
+
+nav {
+	background-color: #800080;
+	margin: 10px;
+	height: 35px;
+	border-radius: 5px;
+}
+
+main {
+	background-color: #BC4676;
+	margin-left: 10px;
+	margin-right: 320px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+	padding: 20px;
+	font-size: 110%;
+}
+
+aside {
+	background-color: #BC4676;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+	padding: 20px;
+	font-size: 105%;
+	float: right;
+	width: 260px;
+	clear: right;
+}
+
+imagesidebar {
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+	float: left;
+	width: 300px;
+	clear: left;
+}
+
+
+footer {
+	background-color: #BC4676;
+	margin: 10px;
+	height: 60px;
+	clear: both;
+	border-radius: 5px;
+	}
+	
